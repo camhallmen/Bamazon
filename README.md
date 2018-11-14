@@ -1,7 +1,7 @@
 # Bamazon
 ## *One-stop shopping for your everyday needs*
 
-### If for some reason you are not viewing this elsewhere, go ahead and check it out on my [Github](https://github.com/camhallmen/Bamazon)
+### If for some reason you are viewing this elsewhere, go ahead and check it out on my [Github](https://github.com/camhallmen/Bamazon)
 
 Bamazon is a unique webstore application that combines node.js with mysql for a truely one of a kind shopping experience!
 
